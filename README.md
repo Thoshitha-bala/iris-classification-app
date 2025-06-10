@@ -20,6 +20,6 @@ This project demonstrates a machine learning solution for classifying iris flowe
 ### Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/iris-classification-app.git
+   git clone https://github.com/Thoshitha-bala/iris-classification-app.git
    cd iris-classification-app
    ```
